@@ -13,6 +13,10 @@
     background-color: #343a40 !important;
 }
 
+.dark-mode .navbar .navbar-brand {
+    color: #ffffff !important;
+}
+
 .dark-mode .table-striped tbody tr:nth-of-type(odd) {
     background-color: #1c1c1c;
 }
